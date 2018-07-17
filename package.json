@@ -10,6 +10,10 @@
         "regex",
         "validation"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShawonAshraf/bd-cellnum-validator"
+    },
     "author": "Shawon Ashraf",
     "license": "MIT",
     "devDependencies": {
