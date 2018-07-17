@@ -1,0 +1,15 @@
+{
+  "name": "bd-cellnum-validator",
+  "version": "1.0.0",
+  "description": "Validates Bangladeshi cellphone numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "validation"
+  ],
+  "author": "Shawon Ashraf",
+  "license": "MIT"
+}
