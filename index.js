@@ -11,7 +11,7 @@
  */
 
 var isValid = function(cellNumber) {
-    const regex = /01(7|8|6|9|5)(\d){8}/;
+    const regex = /(\+){0,1}(88){0,1}01(7|8|6|9|5)(\d){8}/;
     var result = regex.exec(cellNumber);
 
     if (result != null && result[0] === cellNumber) {
