@@ -1,15 +1,19 @@
 {
-  "name": "bd-cellnum-validator",
-  "version": "1.0.0",
-  "description": "Validates Bangladeshi cellphone numbers.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "regex",
-    "validation"
-  ],
-  "author": "Shawon Ashraf",
-  "license": "MIT"
+    "name": "bd-cellnum-validator",
+    "version": "1.0.0",
+    "description": "Validates Bangladeshi cellphone numbers.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha test/**/*.test.js"
+    },
+    "keywords": [
+        "regex",
+        "validation"
+    ],
+    "author": "Shawon Ashraf",
+    "license": "MIT",
+    "devDependencies": {
+        "expect": "^1.20.2",
+        "mocha": "^5.2.0"
+    }
 }
