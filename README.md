@@ -33,5 +33,9 @@ console.log(result);
 npm run test
 ```
 
+## isValid function
+ - `isValid` function takes the cell number as `String`  as its param.
+ - returns `true` if the cell number is valid and `false` otherwise.
+
 ## License
 MIT
