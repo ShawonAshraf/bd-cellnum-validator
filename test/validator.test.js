@@ -1,4 +1,4 @@
-const validator = require('./../validator');
+const validator = require('./../index');
 const expect = require('expect');
 
 describe('Validator test', function(done) {
