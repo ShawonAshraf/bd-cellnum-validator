@@ -9,4 +9,6 @@ var isValid = function(mobileNumber) {
     }
 }
 
-modules.export.isValid = isValid
+module.exports = {
+    isValid
+}
