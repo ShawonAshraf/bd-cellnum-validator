@@ -37,5 +37,8 @@ npm run test
  - `isValid` function takes the cell number as `String`  as its param.
  - returns `true` if the cell number is valid and `false` otherwise.
 
+## Changelog
+- `1.0.1` : Now supports cell phone numbers with country code. 
+
 ## License
 MIT
