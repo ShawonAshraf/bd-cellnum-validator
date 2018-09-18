@@ -1,8 +1,7 @@
 # bd-cellnum-validator
 
 Validates Bangladeshi cell phone numbers. 
-
-[![Npm version](https://npm.runkit.com/bd-cellnum-validator)](https://www.npmjs.com/package/bd-cellnum-validator)
+[![Npm version](https://runkit.io/bokub/npm-version/branches/master/lyo)](https://npmjs.com/package/lyo)
 
 ## How to?
 ### Installation
