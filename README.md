@@ -1,6 +1,8 @@
 # bd-cellnum-validator
 > Validates Bangladeshi cell phone numbers. 
 
+[![NPM](https://nodei.co/npm/bd-cellnum-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bd-cellnum-validator/)
+
 ## How to?
 ### Installation
 
