@@ -3,6 +3,9 @@
 
 [![NPM](https://nodei.co/npm/bd-cellnum-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bd-cellnum-validator/)
 
+[![Build Status](https://travis-ci.org/ShawonAshraf/bd-cellnum-validator.svg?branch=master)](https://travis-ci.org/ShawonAshraf/bd-cellnum-validator)
+[![npm version](https://badge.fury.io/js/bd-cellnum-validator.svg)](https://badge.fury.io/js/bd-cellnum-validator)
+
 ## How to?
 ### Installation
 
