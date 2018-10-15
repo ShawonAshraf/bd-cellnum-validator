@@ -1,6 +1,6 @@
 {
     "name": "bd-cellnum-validator",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "description": "Validates Bangladeshi cellphone numbers.",
     "main": "index.js",
     "scripts": {
