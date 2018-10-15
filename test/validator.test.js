@@ -2,13 +2,21 @@ const validator = require('./../index');
 const expect = require('expect');
 
 describe('Validator test', function(done) {
-    it('Should validate a GP number', function(done) {
+    it('Should validate a GP (017xxxx) number', function(done) {
         var mobileNumber = '01711100022';
         var result = validator.isValid(mobileNumber);
 
         expect(result).toBe(true);
         done();
     });
+
+  it('Should validate a GP (013xxxx) number', function(done) {
+    var mobileNumber = '01300000000';
+    var result = validator.isValid(mobileNumber);
+
+    expect(result).toBe(true);
+    done();
+  });
 
     it("Should validate a Robi number", function(done) {
         var mobileNumber = '01800000000';

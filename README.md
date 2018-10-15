@@ -1,5 +1,5 @@
 # bd-cellnum-validator
-> Validates Bangladeshi cell phone numbers. 
+> Validates Bangladeshi cell phone numbers.
 
 [![NPM](https://nodei.co/npm/bd-cellnum-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bd-cellnum-validator/)
 
@@ -42,7 +42,7 @@ npm run test
  - returns `true` if the cell number is valid and `false` otherwise.
 
 ## Changelog
-- `1.0.1` : Now supports cell phone numbers with country code. 
-
+- `1.0.1` : Now supports cell phone numbers with country code.
+- `3.0.0` : Now supports validation for new GP numbers with 013 code.
 ## License
 MIT
