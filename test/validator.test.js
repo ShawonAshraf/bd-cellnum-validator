@@ -59,7 +59,7 @@ describe('Validator test', function (done) {
     });
 
     it('Should reject an invalid number', function (done) {
-        var mobileNumber = '122121';
+        var mobileNumber = '1101345678911';
         var result = validator.isValid(mobileNumber);
 
         expect(result).toBe(false);
