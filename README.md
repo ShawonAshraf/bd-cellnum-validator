@@ -4,6 +4,7 @@
 [![NPM](https://nodei.co/npm/bd-cellnum-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bd-cellnum-validator/)
 
 [![Build Status](https://travis-ci.org/ShawonAshraf/bd-cellnum-validator.svg?branch=master)](https://travis-ci.org/ShawonAshraf/bd-cellnum-validator)
+[![Build Status](https://dev.azure.com/shawonAshraf/bd-cellnum-validator/_apis/build/status/ShawonAshraf.bd-cellnum-validator?branchName=azure-pipelines)](https://dev.azure.com/shawonAshraf/bd-cellnum-validator/_build/latest?definitionId=8&branchName=azure-pipelines)
 [![npm version](https://badge.fury.io/js/bd-cellnum-validator.svg)](https://badge.fury.io/js/bd-cellnum-validator) [![DeepScan grade](https://deepscan.io/api/teams/4763/projects/6519/branches/54718/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=4763&pid=6519&bid=54718) [![CodeFactor](https://www.codefactor.io/repository/github/shawonashraf/bd-cellnum-validator/badge)](https://www.codefactor.io/repository/github/shawonashraf/bd-cellnum-validator)
 
 ## How to?
